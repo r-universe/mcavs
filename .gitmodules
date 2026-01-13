@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ggskewboxplots"]
+	path = ggskewboxplots
+	url = https://github.com/cran/ggskewboxplots
 [submodule "glme"]
 	path = glme
 	url = https://github.com/cran/glme
